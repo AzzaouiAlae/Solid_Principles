@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\bin\Debug\net8.0\02_Notification_Service_OCP.exe
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\bin\Debug\net8.0\02_Notification_Service_OCP.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\bin\Debug\net8.0\02_Notification_Service_OCP.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\bin\Debug\net8.0\02_Notification_Service_OCP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\bin\Debug\net8.0\02_Notification_Service_OCP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\02_Notification_Service_OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\02_Notification_Service_OCP.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\02_Notification_Service_OCP.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\02_Notification_Service_OCP.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\02_Notification_Service_OCP.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\02_Notification_Service_OCP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\refint\02_Notification_Service_OCP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\02_Notification_Service_OCP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\02_Notification_Service_OCP.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\Open_Closed_Principle_(OCP)\02_Notification_Service\obj\Debug\net8.0\ref\02_Notification_Service_OCP.dll

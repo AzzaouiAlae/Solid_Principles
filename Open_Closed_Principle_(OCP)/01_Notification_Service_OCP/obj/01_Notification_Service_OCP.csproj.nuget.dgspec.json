@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alae\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj": {}
+    "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alae\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj": {
+    "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alae\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj",
+        "projectUniqueName": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj",
         "projectName": "01_Notification_Service_OCP",
-        "projectPath": "C:\\Users\\Alae\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj",
+        "projectPath": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj",
         "packagesPath": "C:\\Users\\Alae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alae\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\obj\\",
+        "outputPath": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alae\\Solid_Principles\\Open_Closed_Principle_(OCP)\\",
+  "WorkspaceRootPath": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97D0F63C-8CF8-45E6-989C-487FEDDA44B7}|01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj|c:\\users\\alae\\solid_principles\\open_closed_principle_(ocp)\\01_notification_service_ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D0F63C-8CF8-45E6-989C-487FEDDA44B7}|01_Notification_Service_OCP\\01_Notification_Service_OCP.csproj|solutionrelative:01_notification_service_ocp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD78A56C-9412-4234-9C14-60A9F1AF9073}|02_Notification_Service\\02_Notification_Service_OCP.csproj|c:\\users\\alae\\github\\solid_principles\\open_closed_principle_(ocp)\\02_notification_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD78A56C-9412-4234-9C14-60A9F1AF9073}|02_Notification_Service\\02_Notification_Service_OCP.csproj|solutionrelative:02_notification_service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD78A56C-9412-4234-9C14-60A9F1AF9073}|02_Notification_Service\\02_Notification_Service_OCP.csproj|c:\\users\\alae\\github\\solid_principles\\open_closed_principle_(ocp)\\02_notification_service\\tiktokservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD78A56C-9412-4234-9C14-60A9F1AF9073}|02_Notification_Service\\02_Notification_Service_OCP.csproj|solutionrelative:02_notification_service\\tiktokservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD78A56C-9412-4234-9C14-60A9F1AF9073}|02_Notification_Service\\02_Notification_Service_OCP.csproj|c:\\users\\alae\\github\\solid_principles\\open_closed_principle_(ocp)\\02_notification_service\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD78A56C-9412-4234-9C14-60A9F1AF9073}|02_Notification_Service\\02_Notification_Service_OCP.csproj|solutionrelative:02_notification_service\\whatsappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhatsappService.cs",
+              "DocumentMoniker": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\02_Notification_Service\\WhatsappService.cs",
+              "RelativeDocumentMoniker": "02_Notification_Service\\WhatsappService.cs",
+              "ToolTip": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\02_Notification_Service\\WhatsappService.cs",
+              "RelativeToolTip": "02_Notification_Service\\WhatsappService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:52:47.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TikTokService.cs",
+              "DocumentMoniker": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\02_Notification_Service\\TikTokService.cs",
+              "RelativeDocumentMoniker": "02_Notification_Service\\TikTokService.cs",
+              "ToolTip": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\02_Notification_Service\\TikTokService.cs",
+              "RelativeToolTip": "02_Notification_Service\\TikTokService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:52:44.596Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alae\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\Program.cs",
-              "RelativeDocumentMoniker": "01_Notification_Service_OCP\\Program.cs",
-              "ToolTip": "C:\\Users\\Alae\\Solid_Principles\\Open_Closed_Principle_(OCP)\\01_Notification_Service_OCP\\Program.cs",
-              "RelativeToolTip": "01_Notification_Service_OCP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\02_Notification_Service\\Program.cs",
+              "RelativeDocumentMoniker": "02_Notification_Service\\Program.cs",
+              "ToolTip": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Open_Closed_Principle_(OCP)\\02_Notification_Service\\Program.cs",
+              "RelativeToolTip": "02_Notification_Service\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T15:46:14.579Z",
+              "WhenOpened": "2024-11-24T19:29:57.27Z",
               "EditorCaption": ""
             }
           ]
