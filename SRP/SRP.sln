@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Notification_Service", "01_Notification_Service\01_Notification_Service.csproj", "{503387E8-234A-4CDF-AA32-DD9F084ED151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Notification_Service_SRP", "02_Notification_Service_SRP\02_Notification_Service_SRP.csproj", "{668D1C39-96E8-4992-96C8-1AD91B72B9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Logging_Service", "03_Logging_Service\03_Logging_Service.csproj", "{CBFBFC10-06CC-4A76-BD40-0D7A462C55A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{503387E8-234A-4CDF-AA32-DD9F084ED151}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{503387E8-234A-4CDF-AA32-DD9F084ED151}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{503387E8-234A-4CDF-AA32-DD9F084ED151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668D1C39-96E8-4992-96C8-1AD91B72B9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668D1C39-96E8-4992-96C8-1AD91B72B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668D1C39-96E8-4992-96C8-1AD91B72B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668D1C39-96E8-4992-96C8-1AD91B72B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBFBFC10-06CC-4A76-BD40-0D7A462C55A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBFBFC10-06CC-4A76-BD40-0D7A462C55A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBFBFC10-06CC-4A76-BD40-0D7A462C55A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBFBFC10-06CC-4A76-BD40-0D7A462C55A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

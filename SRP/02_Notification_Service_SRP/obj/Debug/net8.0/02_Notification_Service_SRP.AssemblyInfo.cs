@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("01_Notification_Service")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("02_Notification_Service_SRP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3240b3af276d2d03b6eec83c970fec6a29ce4078")]
-[assembly: System.Reflection.AssemblyProductAttribute("01_Notification_Service")]
-[assembly: System.Reflection.AssemblyTitleAttribute("01_Notification_Service")]
+[assembly: System.Reflection.AssemblyProductAttribute("02_Notification_Service_SRP")]
+[assembly: System.Reflection.AssemblyTitleAttribute("02_Notification_Service_SRP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.

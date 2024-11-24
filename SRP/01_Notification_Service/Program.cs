@@ -1,6 +1,6 @@
 ﻿namespace _01_Notification_Service
 {
-    public class NotificqtionService
+    public class NotificationService
     {
         public enum enNotificationType { Email, SMS, Fax}
         public void SendNotification(string to, string message, enNotificationType notificationType)
@@ -30,10 +30,10 @@
     {
         static void Main(string[] args)
         {
-            NotificqtionService service = new NotificqtionService();
-            service.SendNotification("alae", "Hello", NotificqtionService.enNotificationType.Email);
-            service.SendNotification("alae", "Hello", NotificqtionService.enNotificationType.SMS);
-            service.SendNotification("alae", "Hello", NotificqtionService.enNotificationType.Fax);
+            NotificationService service = new NotificationService();
+            service.SendNotification("alae", "Hello", NotificationService.enNotificationType.Email);
+            service.SendNotification("alae", "Hello", NotificationService.enNotificationType.SMS);
+            service.SendNotification("alae", "Hello", NotificationService.enNotificationType.Fax);
         }
     }
 }

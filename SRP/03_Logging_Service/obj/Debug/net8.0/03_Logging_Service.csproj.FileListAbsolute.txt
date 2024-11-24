@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\bin\Debug\net8.0\03_Logging_Service.exe
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\bin\Debug\net8.0\03_Logging_Service.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\bin\Debug\net8.0\03_Logging_Service.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\bin\Debug\net8.0\03_Logging_Service.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\bin\Debug\net8.0\03_Logging_Service.pdb
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\03_Logging_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\03_Logging_Service.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\03_Logging_Service.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\03_Logging_Service.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\03_Logging_Service.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\03_Logging_Service.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\refint\03_Logging_Service.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\03_Logging_Service.pdb
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\03_Logging_Service.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\03_Logging_Service\obj\Debug\net8.0\ref\03_Logging_Service.dll
