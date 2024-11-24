@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_Notification_Service_OCP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a549ee5d2628c66e9b341f1325f2bceb21b50ebb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f2e0e1c4a517bb3c70565fb390bcc4c5354706a")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_Notification_Service_OCP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_Notification_Service_OCP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
