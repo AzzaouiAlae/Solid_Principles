@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\bin\Debug\net8.0\01_Notification_Service.exe
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\bin\Debug\net8.0\01_Notification_Service.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\bin\Debug\net8.0\01_Notification_Service.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\bin\Debug\net8.0\01_Notification_Service.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\bin\Debug\net8.0\01_Notification_Service.pdb
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\01_Notification_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\01_Notification_Service.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\01_Notification_Service.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\01_Notification_Service.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\01_Notification_Service.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\01_Notification_Service.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\refint\01_Notification_Service.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\01_Notification_Service.pdb
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\01_Notification_Service.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\01_Notification_Service\obj\Debug\net8.0\ref\01_Notification_Service.dll
