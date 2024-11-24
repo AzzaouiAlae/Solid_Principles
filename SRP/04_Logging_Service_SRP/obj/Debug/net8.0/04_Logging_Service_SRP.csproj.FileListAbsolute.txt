@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\bin\Debug\net8.0\04_Logging_Service_SRP.exe
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\bin\Debug\net8.0\04_Logging_Service_SRP.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\bin\Debug\net8.0\04_Logging_Service_SRP.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\bin\Debug\net8.0\04_Logging_Service_SRP.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\bin\Debug\net8.0\04_Logging_Service_SRP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\04_Logging_Service_SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\04_Logging_Service_SRP.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\04_Logging_Service_SRP.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\04_Logging_Service_SRP.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\04_Logging_Service_SRP.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\04_Logging_Service_SRP.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\refint\04_Logging_Service_SRP.dll
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\04_Logging_Service_SRP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\04_Logging_Service_SRP.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\SRP\04_Logging_Service_SRP\obj\Debug\net8.0\ref\04_Logging_Service_SRP.dll
