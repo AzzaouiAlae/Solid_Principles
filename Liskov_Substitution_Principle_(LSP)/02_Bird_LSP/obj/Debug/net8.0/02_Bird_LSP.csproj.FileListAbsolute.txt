@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\bin\Debug\net8.0\02_Bird_LSP.exe
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\bin\Debug\net8.0\02_Bird_LSP.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\bin\Debug\net8.0\02_Bird_LSP.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\bin\Debug\net8.0\02_Bird_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\bin\Debug\net8.0\02_Bird_LSP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\02_Bird_LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\02_Bird_LSP.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\02_Bird_LSP.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\02_Bird_LSP.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\02_Bird_LSP.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\02_Bird_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\refint\02_Bird_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\02_Bird_LSP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\02_Bird_LSP.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\02_Bird_LSP\obj\Debug\net8.0\ref\02_Bird_LSP.dll

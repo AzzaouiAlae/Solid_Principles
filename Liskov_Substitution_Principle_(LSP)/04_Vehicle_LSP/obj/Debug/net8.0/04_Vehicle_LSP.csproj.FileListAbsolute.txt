@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\bin\Debug\net8.0\04_Vehicle_LSP.exe
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\bin\Debug\net8.0\04_Vehicle_LSP.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\bin\Debug\net8.0\04_Vehicle_LSP.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\bin\Debug\net8.0\04_Vehicle_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\bin\Debug\net8.0\04_Vehicle_LSP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\04_Vehicle_LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\04_Vehicle_LSP.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\04_Vehicle_LSP.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\04_Vehicle_LSP.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\04_Vehicle_LSP.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\04_Vehicle_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\refint\04_Vehicle_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\04_Vehicle_LSP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\04_Vehicle_LSP.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\04_Vehicle_LSP\obj\Debug\net8.0\ref\04_Vehicle_LSP.dll

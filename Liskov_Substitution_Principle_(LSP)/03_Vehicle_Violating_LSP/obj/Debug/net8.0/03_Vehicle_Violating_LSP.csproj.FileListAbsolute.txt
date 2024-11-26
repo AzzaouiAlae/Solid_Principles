@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\bin\Debug\net8.0\03_Vehicle_Violating_LSP.exe
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\bin\Debug\net8.0\03_Vehicle_Violating_LSP.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\bin\Debug\net8.0\03_Vehicle_Violating_LSP.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\bin\Debug\net8.0\03_Vehicle_Violating_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\bin\Debug\net8.0\03_Vehicle_Violating_LSP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\03_Vehicle_Violating_LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\03_Vehicle_Violating_LSP.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\03_Vehicle_Violating_LSP.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\03_Vehicle_Violating_LSP.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\03_Vehicle_Violating_LSP.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\03_Vehicle_Violating_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\refint\03_Vehicle_Violating_LSP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\03_Vehicle_Violating_LSP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\03_Vehicle_Violating_LSP.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\Liskov_Substitution_Principle_(LSP)\03_Vehicle_Violating_LSP\obj\Debug\net8.0\ref\03_Vehicle_Violating_LSP.dll
