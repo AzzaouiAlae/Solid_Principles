@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "02_printer_IPS/1.0.0": {
+        "runtime": {
+          "02_printer_IPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02_printer_IPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

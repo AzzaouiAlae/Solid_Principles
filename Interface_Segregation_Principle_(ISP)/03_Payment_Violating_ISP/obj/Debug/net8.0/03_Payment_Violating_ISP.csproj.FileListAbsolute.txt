@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\bin\Debug\net8.0\03_Payment_Violating_ISP.exe
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\bin\Debug\net8.0\03_Payment_Violating_ISP.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\bin\Debug\net8.0\03_Payment_Violating_ISP.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\bin\Debug\net8.0\03_Payment_Violating_ISP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\bin\Debug\net8.0\03_Payment_Violating_ISP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\03_Payment_Violating_ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\03_Payment_Violating_ISP.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\03_Payment_Violating_ISP.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\03_Payment_Violating_ISP.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\03_Payment_Violating_ISP.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\03_Payment_Violating_ISP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\refint\03_Payment_Violating_ISP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\03_Payment_Violating_ISP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\03_Payment_Violating_ISP.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\03_Payment_Violating_ISP\obj\Debug\net8.0\ref\03_Payment_Violating_ISP.dll

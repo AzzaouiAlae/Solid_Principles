@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21F5017-A017-42A1-8A55-79FB0AFE0F37}|05_Device_Violating_ISP\\05_Device_Violating_ISP.csproj|c:\\users\\alae\\github\\solid_principles\\interface_segregation_principle_(isp)\\05_device_violating_isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21F5017-A017-42A1-8A55-79FB0AFE0F37}|05_Device_Violating_ISP\\05_Device_Violating_ISP.csproj|solutionrelative:05_device_violating_isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27E25E-6BFD-4A5A-9616-93B2468E29FC}|04_Payment_ISP\\04_Payment_ISP.csproj|c:\\users\\alae\\github\\solid_principles\\interface_segregation_principle_(isp)\\04_payment_isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27E25E-6BFD-4A5A-9616-93B2468E29FC}|04_Payment_ISP\\04_Payment_ISP.csproj|solutionrelative:04_payment_isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8F8DE0-AFA5-4CF6-A271-66D161B84B4F}|03_Payment_Violating_ISP\\03_Payment_Violating_ISP.csproj|c:\\users\\alae\\github\\solid_principles\\interface_segregation_principle_(isp)\\03_payment_violating_isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB8F8DE0-AFA5-4CF6-A271-66D161B84B4F}|03_Payment_Violating_ISP\\03_Payment_Violating_ISP.csproj|solutionrelative:03_payment_violating_isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEE416C-2033-4534-8BA2-B4E3FCE0ADA0}|02_printer_IPS\\02_printer_IPS.csproj|c:\\users\\alae\\github\\solid_principles\\interface_segregation_principle_(isp)\\02_printer_ips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEE416C-2033-4534-8BA2-B4E3FCE0ADA0}|02_printer_IPS\\02_printer_IPS.csproj|solutionrelative:02_printer_ips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF271316-1187-4937-9181-2C5BDE41D1F5}|01_print_violiting_IPS\\01_print_violiting_IPS.csproj|c:\\users\\alae\\github\\solid_principles\\interface_segregation_principle_(isp)\\01_print_violiting_ips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF271316-1187-4937-9181-2C5BDE41D1F5}|01_print_violiting_IPS\\01_print_violiting_IPS.csproj|solutionrelative:01_print_violiting_ips\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\05_Device_Violating_ISP\\Program.cs",
+              "RelativeDocumentMoniker": "05_Device_Violating_ISP\\Program.cs",
+              "ToolTip": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\05_Device_Violating_ISP\\Program.cs",
+              "RelativeToolTip": "05_Device_Violating_ISP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T20:14:15.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\04_Payment_ISP\\Program.cs",
+              "RelativeDocumentMoniker": "04_Payment_ISP\\Program.cs",
+              "ToolTip": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\04_Payment_ISP\\Program.cs",
+              "RelativeToolTip": "04_Payment_ISP\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:56:06.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\03_Payment_Violating_ISP\\Program.cs",
+              "RelativeDocumentMoniker": "03_Payment_Violating_ISP\\Program.cs",
+              "ToolTip": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\03_Payment_Violating_ISP\\Program.cs",
+              "RelativeToolTip": "03_Payment_Violating_ISP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:46:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\02_printer_IPS\\Program.cs",
+              "RelativeDocumentMoniker": "02_printer_IPS\\Program.cs",
+              "ToolTip": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\02_printer_IPS\\Program.cs",
+              "RelativeToolTip": "02_printer_IPS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T19:25:01.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\01_print_violiting_IPS\\Program.cs",
+              "RelativeDocumentMoniker": "01_print_violiting_IPS\\Program.cs",
+              "ToolTip": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\01_print_violiting_IPS\\Program.cs",
+              "RelativeToolTip": "01_print_violiting_IPS\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T18:57:50.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

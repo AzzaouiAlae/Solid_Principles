@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\bin\Debug\net8.0\02_printer_IPS.exe
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\bin\Debug\net8.0\02_printer_IPS.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\bin\Debug\net8.0\02_printer_IPS.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\bin\Debug\net8.0\02_printer_IPS.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\bin\Debug\net8.0\02_printer_IPS.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\02_printer_IPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\02_printer_IPS.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\02_printer_IPS.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\02_printer_IPS.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\02_printer_IPS.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\02_printer_IPS.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\refint\02_printer_IPS.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\02_printer_IPS.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\02_printer_IPS.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\02_printer_IPS\obj\Debug\net8.0\ref\02_printer_IPS.dll

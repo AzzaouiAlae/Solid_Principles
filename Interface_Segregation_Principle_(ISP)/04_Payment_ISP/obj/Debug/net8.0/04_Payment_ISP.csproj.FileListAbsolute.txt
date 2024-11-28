@@ -1,0 +1,15 @@
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\bin\Debug\net8.0\04_Payment_ISP.exe
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\bin\Debug\net8.0\04_Payment_ISP.deps.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\bin\Debug\net8.0\04_Payment_ISP.runtimeconfig.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\bin\Debug\net8.0\04_Payment_ISP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\bin\Debug\net8.0\04_Payment_ISP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\04_Payment_ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\04_Payment_ISP.AssemblyInfoInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\04_Payment_ISP.AssemblyInfo.cs
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\04_Payment_ISP.csproj.CoreCompileInputs.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\04_Payment_ISP.sourcelink.json
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\04_Payment_ISP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\refint\04_Payment_ISP.dll
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\04_Payment_ISP.pdb
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\04_Payment_ISP.genruntimeconfig.cache
+C:\Users\Alae\GitHub\Solid_Principles\Interface_Segregation_Principle_(ISP)\04_Payment_ISP\obj\Debug\net8.0\ref\04_Payment_ISP.dll
