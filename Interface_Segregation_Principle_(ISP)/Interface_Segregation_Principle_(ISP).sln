@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Payment_ISP", "04_Paymen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Device_Violating_ISP", "05_Device_Violating_ISP\05_Device_Violating_ISP.csproj", "{D21F5017-A017-42A1-8A55-79FB0AFE0F37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{657B4F53-FA0D-4109-9090-D884692BC3B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Device_ISP", "06_Device_ISP\06_Device_ISP.csproj", "{160E6A4F-008B-45EE-A1CF-728B9329D219}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +45,10 @@ Global
 		{657B4F53-FA0D-4109-9090-D884692BC3B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{657B4F53-FA0D-4109-9090-D884692BC3B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{657B4F53-FA0D-4109-9090-D884692BC3B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{160E6A4F-008B-45EE-A1CF-728B9329D219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160E6A4F-008B-45EE-A1CF-728B9329D219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160E6A4F-008B-45EE-A1CF-728B9329D219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160E6A4F-008B-45EE-A1CF-728B9329D219}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

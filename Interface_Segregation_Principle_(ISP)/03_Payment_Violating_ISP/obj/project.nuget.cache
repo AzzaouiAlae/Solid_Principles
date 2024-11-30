@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7DobZXPEpcc=",
+  "dgSpecHash": "su1Ax6LsV/Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alae\\GitHub\\Solid_Principles\\Interface_Segregation_Principle_(ISP)\\03_Payment_Violating_ISP\\03_Payment_Violating_ISP.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/03_Payment_Violating_ISP/03_Payment_Violating_ISP.csproj",
+  "expectedPackageFiles": [
+    "/home/aazzaoui/.nuget/packages/microsoft.netcore.app.ref/8.0.7/microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
+    "/home/aazzaoui/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",
+    "/home/aazzaoui/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.7/microsoft.netcore.app.host.linux-x64.8.0.7.nupkg.sha512"
+  ],
   "logs": []
 }

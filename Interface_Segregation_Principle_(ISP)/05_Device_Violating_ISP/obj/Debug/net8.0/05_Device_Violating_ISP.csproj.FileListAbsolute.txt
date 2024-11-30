@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/bin/Debug/net8.0/05_Device_Violating_ISP
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/bin/Debug/net8.0/05_Device_Violating_ISP.deps.json
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/bin/Debug/net8.0/05_Device_Violating_ISP.runtimeconfig.json
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/bin/Debug/net8.0/05_Device_Violating_ISP.dll
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/bin/Debug/net8.0/05_Device_Violating_ISP.pdb
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/05_Device_Violating_ISP.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/05_Device_Violating_ISP.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/05_Device_Violating_ISP.AssemblyInfo.cs
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/05_Device_Violating_ISP.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/05_Device_Violating_ISP.sourcelink.json
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/05_Device_Violating_ISP.dll
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/refint/05_Device_Violating_ISP.dll
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/05_Device_Violating_ISP.pdb
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/05_Device_Violating_ISP.genruntimeconfig.cache
+/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/05_Device_Violating_ISP/obj/Debug/net8.0/ref/05_Device_Violating_ISP.dll
