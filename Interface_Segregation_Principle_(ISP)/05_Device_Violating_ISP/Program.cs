@@ -6,6 +6,7 @@
         void TakePhoto();
         void SendEmail();
         void UseGPS();
+        
     }
     public class SnartPhone : IDevice 
     {
