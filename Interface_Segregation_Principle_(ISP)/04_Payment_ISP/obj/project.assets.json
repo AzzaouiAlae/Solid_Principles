@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/04_Payment_ISP/04_Payment_ISP.csproj",
+      "projectUniqueName": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/04_Payment_ISP/04_Payment_ISP.csproj",
       "projectName": "04_Payment_ISP",
-      "projectPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/04_Payment_ISP/04_Payment_ISP.csproj",
+      "projectPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/04_Payment_ISP/04_Payment_ISP.csproj",
       "packagesPath": "/home/aazzaoui/.nuget/packages/",
-      "outputPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/04_Payment_ISP/obj/",
+      "outputPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/04_Payment_ISP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/aazzaoui/.nuget/NuGet/NuGet.Config"

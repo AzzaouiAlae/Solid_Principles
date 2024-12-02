@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/03_Payment_Violating_ISP/03_Payment_Violating_ISP.csproj",
+      "projectUniqueName": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/03_Payment_Violating_ISP/03_Payment_Violating_ISP.csproj",
       "projectName": "03_Payment_Violating_ISP",
-      "projectPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/03_Payment_Violating_ISP/03_Payment_Violating_ISP.csproj",
+      "projectPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/03_Payment_Violating_ISP/03_Payment_Violating_ISP.csproj",
       "packagesPath": "/home/aazzaoui/.nuget/packages/",
-      "outputPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/03_Payment_Violating_ISP/obj/",
+      "outputPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/03_Payment_Violating_ISP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/aazzaoui/.nuget/NuGet/NuGet.Config"

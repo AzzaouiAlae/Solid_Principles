@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/06_Device_ISP.csproj": {}
+    "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/06_Device_ISP.csproj": {}
   },
   "projects": {
-    "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/06_Device_ISP.csproj": {
+    "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/06_Device_ISP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/06_Device_ISP.csproj",
+        "projectUniqueName": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/06_Device_ISP.csproj",
         "projectName": "06_Device_ISP",
-        "projectPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/06_Device_ISP.csproj",
+        "projectPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/06_Device_ISP.csproj",
         "packagesPath": "/home/aazzaoui/.nuget/packages/",
-        "outputPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/",
+        "outputPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aazzaoui/.nuget/NuGet/NuGet.Config"

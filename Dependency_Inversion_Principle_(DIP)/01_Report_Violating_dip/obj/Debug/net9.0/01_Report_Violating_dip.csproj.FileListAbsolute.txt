@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/bin/Debug/net9.0/01_Report_Violating_dip
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/bin/Debug/net9.0/01_Report_Violating_dip.deps.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/bin/Debug/net9.0/01_Report_Violating_dip.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/bin/Debug/net9.0/01_Report_Violating_dip.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/bin/Debug/net9.0/01_Report_Violating_dip.pdb
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/01_Report_Violating_dip.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/01_Report_Violating_dip.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/01_Report_Violating_dip.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/01_Report_Violating_dip.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/01_Report_Violating_dip.sourcelink.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/01_Report_Violating_dip.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/refint/01_Report_Violating_dip.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/01_Report_Violating_dip.pdb
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/01_Report_Violating_dip.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/01_Report_Violating_dip/obj/Debug/net9.0/ref/01_Report_Violating_dip.dll

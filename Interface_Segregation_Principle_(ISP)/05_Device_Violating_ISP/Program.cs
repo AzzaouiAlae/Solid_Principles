@@ -62,10 +62,10 @@
             device.UseGPS();
 
             IDevice device1 = new Computer();
-            device1.MakeCall();
-            device1.TakePhoto();
+            //device1.MakeCall();
+            //device1.TakePhoto();
             device1.SendEmail();
-            device1.UseGPS();
+            //device1.UseGPS();
         }
     }
 }

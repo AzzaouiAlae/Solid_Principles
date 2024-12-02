@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bj6JQHiwYJA=",
+  "dgSpecHash": "2dSutX9vUg4=",
   "success": true,
-  "projectFilePath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/04_Payment_ISP/04_Payment_ISP.csproj",
+  "projectFilePath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/04_Payment_ISP/04_Payment_ISP.csproj",
   "expectedPackageFiles": [
     "/home/aazzaoui/.nuget/packages/microsoft.netcore.app.ref/8.0.7/microsoft.netcore.app.ref.8.0.7.nupkg.sha512",
     "/home/aazzaoui/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/02_printer_IPS.csproj": {}
+    "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/02_printer_IPS.csproj": {}
   },
   "projects": {
-    "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/02_printer_IPS.csproj": {
+    "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/02_printer_IPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/02_printer_IPS.csproj",
+        "projectUniqueName": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/02_printer_IPS.csproj",
         "projectName": "02_printer_IPS",
-        "projectPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/02_printer_IPS.csproj",
+        "projectPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/02_printer_IPS.csproj",
         "packagesPath": "/home/aazzaoui/.nuget/packages/",
-        "outputPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/obj/",
+        "outputPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/02_printer_IPS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aazzaoui/.nuget/NuGet/NuGet.Config"

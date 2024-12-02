@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/01_print_violiting_IPS.csproj": {}
+    "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/01_print_violiting_IPS.csproj": {}
   },
   "projects": {
-    "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/01_print_violiting_IPS.csproj": {
+    "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/01_print_violiting_IPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/01_print_violiting_IPS.csproj",
+        "projectUniqueName": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/01_print_violiting_IPS.csproj",
         "projectName": "01_print_violiting_IPS",
-        "projectPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/01_print_violiting_IPS.csproj",
+        "projectPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/01_print_violiting_IPS.csproj",
         "packagesPath": "/home/aazzaoui/.nuget/packages/",
-        "outputPath": "/home/aazzaoui/Desktop/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/obj/",
+        "outputPath": "/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/01_print_violiting_IPS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aazzaoui/.nuget/NuGet/NuGet.Config"

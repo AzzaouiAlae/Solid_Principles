@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/bin/Debug/net9.0/06_Device_ISP
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/bin/Debug/net9.0/06_Device_ISP.deps.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/bin/Debug/net9.0/06_Device_ISP.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/bin/Debug/net9.0/06_Device_ISP.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/bin/Debug/net9.0/06_Device_ISP.pdb
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/06_Device_ISP.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/06_Device_ISP.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/06_Device_ISP.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/06_Device_ISP.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/06_Device_ISP.sourcelink.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/06_Device_ISP.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/refint/06_Device_ISP.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/06_Device_ISP.pdb
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/06_Device_ISP.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Interface_Segregation_Principle_(ISP)/06_Device_ISP/obj/Debug/net9.0/ref/06_Device_ISP.dll
