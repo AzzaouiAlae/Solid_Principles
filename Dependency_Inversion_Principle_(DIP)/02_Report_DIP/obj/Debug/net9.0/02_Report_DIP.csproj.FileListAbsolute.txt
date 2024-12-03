@@ -1,0 +1,15 @@
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/bin/Debug/net9.0/02_Report_DIP
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/bin/Debug/net9.0/02_Report_DIP.deps.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/bin/Debug/net9.0/02_Report_DIP.runtimeconfig.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/bin/Debug/net9.0/02_Report_DIP.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/bin/Debug/net9.0/02_Report_DIP.pdb
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/02_Report_DIP.GeneratedMSBuildEditorConfig.editorconfig
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/02_Report_DIP.AssemblyInfoInputs.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/02_Report_DIP.AssemblyInfo.cs
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/02_Report_DIP.csproj.CoreCompileInputs.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/02_Report_DIP.sourcelink.json
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/02_Report_DIP.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/refint/02_Report_DIP.dll
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/02_Report_DIP.pdb
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/02_Report_DIP.genruntimeconfig.cache
+/home/aazzaoui/Desktop/cources/SolidPrinciples/Dependency_Inversion_Principle_(DIP)/02_Report_DIP/obj/Debug/net9.0/ref/02_Report_DIP.dll
